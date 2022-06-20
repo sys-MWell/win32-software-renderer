@@ -1,0 +1,18 @@
+﻿  AmbientLighting.cpp
+  Bitmap.cpp
+  Camera.cpp
+  DirectionalLighting.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  PointLighting.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+  Vector3D.cpp
+  Vertex.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 568 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BaseFramework.vcxproj -> C:\Users\100540796\OneDrive - University of Derby\Programs\C++\Exercises\Week 9\100540796\Source\x64\Release\BaseFramework.exe
